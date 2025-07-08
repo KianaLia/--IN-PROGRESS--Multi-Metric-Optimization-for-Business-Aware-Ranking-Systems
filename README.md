@@ -1,4 +1,4 @@
-# Multi-Metric Optimization: Fast and Flexible Re-ranking Over Multiple Business Metrics
+# Multi-Metric Optimization for Business-Aware Ranking Systems
 
 **Authors:**  
 Kiana Liaghat (Machine Learning Lead, Jabama, Tehran, Iran)  
