@@ -1,7 +1,7 @@
 # Rayleigh-Based Multi-Objective Optimization for Business-Aware Re-Ranking
 
 **Authors:**  
-Kiana Liaghat (Machine Learning Lead, Jabama, Tehran, Iran)  
+Kiana Liaghat (Lead Machine Learning Engineer, Jabama, Tehran, Iran)  
 Mohammad Forouhesh (Data Science Manager, Jabama, Tehran, Iran)
 
 **Contact:**  
