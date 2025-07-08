@@ -1,4 +1,4 @@
-# Multi-Metric Optimization for Business-Aware Ranking Systems
+# Rayleigh-Based Multi-Objective Optimization for Business-Aware Re-Ranking
 
 **Authors:**  
 Kiana Liaghat (Machine Learning Lead, Jabama, Tehran, Iran)  
