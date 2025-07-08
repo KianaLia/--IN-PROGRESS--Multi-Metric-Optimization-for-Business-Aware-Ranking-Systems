@@ -12,14 +12,12 @@ Mohammad Forouhesh (Data Science Manager, Jabama, Tehran, Iran)
 
 ## 📝 Summary
 
-This repository contains the **preprint draft** of our ongoing research on **multi-metric optimization in ranking systems**. In today's complex business environments, recommendation systems must optimize not just for a single objective, but across multiple—often competing—business metrics like profit, user engagement, and conversion rate.
+This repository contains the preprint draft of our ongoing research on multi-metric optimization in ranking systems. Optimizing for a single metric often fails to capture the complexity of real-world business goals and user needs. By optimizing across multiple—sometimes competing—business metrics, our approach offers a more accurate modeling of the environment, leading to better recommendation and ranking outcomes for both users and businesses.
 
-Our work introduces a **mathematically rigorous and computationally efficient algorithm** for **multi-objective ranking optimization**. It supports:
+Our work introduces a **mathematically rigorous and computationally efficient algorithm** for **multi-objective optimization**. It supports:
 - Arbitrary numbers of business and user-centric KPIs.
-- Explicit stakeholder-defined importance weights.
+- Ability to incorporate explicit stakeholder-defined importance weights.
 - Theoretical optimality using generalized eigenvalue problems and Rayleigh quotient formulation.
-
-We demonstrate that this method significantly outperforms single-metric optimization approaches, offering more balanced performance across all key metrics.
 
 ---
 
@@ -31,7 +29,7 @@ We are actively:
 - Completing experimental validation and A/B testing.
 - Refining implementation details and performance evaluation.
 
-Please note that this version may undergo significant revisions as the work progresses.
+**Please note that this version may undergo significant revisions as the work progresses.**
 
 ---
 
@@ -39,7 +37,6 @@ Please note that this version may undergo significant revisions as the work prog
 
 - `Multi_Metric_Optimization_PrePrint.pdf`: The draft preprint of our paper.  
 - Future updates will include:
-  - Code implementations  
   - Experimental results  
   - Final camera-ready version  
 
